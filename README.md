@@ -23,8 +23,9 @@ Other countries also show significant investment, highlighting Netflix’s globa
 
 
 ## Facet Plot: Count of Netflix Movies Released Over the Years by Genre
-This tile plot explores the relationship between movie budget and revenue, with color indicating average viewer rating.  
-While there is a linear trend of higher budgets leading to higher revenues, the highest ratings are not limited to the most expensive productions, suggesting that cost does not always reflect quality.
+This line chart shows how the number of Netflix movies released per year has evolved across different genres.
+Notably Drama has been consistently dominating. In most recent years, there has been a sharp increase in Documentary releases, while Animation has seen a decline.
+These trends reflect changing production or audience preferences as we go into 2025.
 
 ![Facet Plot](netflix_facetgraph.png)
 
